@@ -1,0 +1,149 @@
+[
+    {
+        "id": 1,
+        "name": "Wireless Mouse",
+        "price": 25.99,
+        "category": "Electronics",
+        "brand": "Logitech"
+    },
+    {
+        "id": 2,
+        "name": "Bluetooth Headphones",
+        "price": 49.99,
+        "category": "Electronics",
+        "brand": "Sony"
+    },
+    {
+        "id": 3,
+        "name": "Running Shoes",
+        "price": 75,
+        "category": "Footwear",
+        "brand": "Nike"
+    },
+    {
+        "id": 4,
+        "name": "Smartphone",
+        "price": 699,
+        "category": "Electronics",
+        "brand": "Samsung"
+    },
+    {
+        "id": 5,
+        "name": "Desk Chair",
+        "price": 89.99,
+        "category": "Furniture",
+        "brand": "Ikea"
+    },
+    {
+        "id": 6,
+        "name": "Electric Kettle",
+        "price": 29.99,
+        "category": "Kitchen Appliances",
+        "brand": "Philips"
+    },
+    {
+        "id": 7,
+        "name": "Yoga Mat",
+        "price": 19.99,
+        "category": "Fitness",
+        "brand": "Lululemon"
+    },
+    {
+        "id": 8,
+        "name": "Gaming Laptop",
+        "price": 1099.99,
+        "category": "Computers",
+        "brand": "Alienware"
+    },
+    {
+        "id": 9,
+        "name": "4K TV",
+        "price": 499.99,
+        "category": "Electronics",
+        "brand": "LG"
+    },
+    {
+        "id": 10,
+        "name": "Blender",
+        "price": 45,
+        "category": "Kitchen Appliances",
+        "brand": "Ninja"
+    },
+    {
+        "id": 11,
+        "name": "Desk Lamp",
+        "price": 15.99,
+        "category": "Lighting",
+        "brand": "Havells"
+    },
+    {
+        "id": 12,
+        "name": "Digital Camera",
+        "price": 350,
+        "category": "Electronics",
+        "brand": "Canon"
+    },
+    {
+        "id": 13,
+        "name": "Smartwatch",
+        "price": 199.99,
+        "category": "Wearables",
+        "brand": "Apple"
+    },
+    {
+        "id": 14,
+        "name": "Microwave Oven",
+        "price": 129.99,
+        "category": "Kitchen Appliances",
+        "brand": "Panasonic"
+    },
+    {
+        "id": 15,
+        "name": "Backpack",
+        "price": 59.99,
+        "category": "Accessories",
+        "brand": "The North Face"
+    },
+    {
+        "id": 16,
+        "name": "Keyboard",
+        "price": 24.99,
+        "category": "Computer Accessories",
+        "brand": "Corsair"
+    },
+    {
+        "id": 17,
+        "name": "Electric Toothbrush",
+        "price": 39.99,
+        "category": "Personal Care",
+        "brand": "Oral-B"
+    },
+    {
+        "id": 18,
+        "name": "Action Camera",
+        "price": 299,
+        "category": "Electronics",
+        "brand": "GoPro"
+    },
+    {
+        "id": 19,
+        "name": "Vacuum Cleaner",
+        "price": 99.99,
+        "category": "Home Appliances",
+        "brand": "Dyson"
+    },
+    {
+        "id": 20,
+        "name": "Air Conditioner",
+        "price": 499.99,
+        "category": "Home Appliances",
+        "brand": "Daikin"
+    },
+    {
+        "id": 21,
+        "name": "GPU",
+        "price": 100,
+        "category": "Electronics",
+        "brand": "NVIDIA"
+    }
+]
