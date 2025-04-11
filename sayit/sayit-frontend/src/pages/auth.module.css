@@ -1,0 +1,76 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f4f4f4;
+  }
+  
+  .form {
+    background: white;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+  }
+
+  .toastSuccess{
+    padding: 20px 40px;
+    background-color: rgb(123, 191, 123);
+    position: fixed;
+    bottom: 50px;
+    right:50px;
+    border-radius: 10px;
+  }
+
+  .toastError{
+
+    padding: 20px 40px;
+    background-color: rgb(224, 55, 55);
+    position: fixed;
+    bottom: 50px;
+    right:50px;
+    border-radius: 10px;
+
+
+  }
+  
+  .title {
+    font-size: 1.8rem;
+    color: #333;
+    margin-bottom: 1.5rem;
+    text-align: center;
+  }
+  
+  .label {
+    display: block;
+    margin-bottom: 1rem;
+    color: #555;
+  }
+  
+  .input {
+    width: 100%;
+    padding: 0.8rem;
+    margin-top: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1rem;
+  }
+  
+  .button {
+    width: 100%;
+    padding: 0.8rem;
+    background-color: #007bff;
+    color: white;
+    font-size: 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 1.5rem;
+  }
+  
+  .button:hover {
+    background-color: #0056b3;
+  }
+  

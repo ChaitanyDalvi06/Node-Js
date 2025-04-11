@@ -1,0 +1,56 @@
+.chat
+{
+    width: 100%;
+    padding: 50px 10%;
+    display: flex;
+    flex-direction: column;
+    row-gap: 30px;
+}
+
+.room
+{
+    width: 100%;
+    padding: 30px 50px;
+    background-color: #f9f9f9;
+    display: flex;
+    justify-content: space-between;
+}
+
+.button
+{
+    width: 100px;
+    padding: 10px;
+    color: white;
+    background-color: rgb(50, 162, 214);
+    border: none;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+
+/* chat room css */
+
+.chatroom
+{
+    width: 100%;
+    padding: 30px 10%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 20px;
+}
+
+.chatlogger
+{
+    width: 70%;
+    height: 500px;
+    background-color: red;
+}
+
+.createchat
+{
+    width: 70%;
+    height: 60px;
+    background-color: green;
+}
